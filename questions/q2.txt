@@ -3,4 +3,3 @@ A) git log
 B) git diff
 C) git status
 D) git show
-Правильный ответ: C
